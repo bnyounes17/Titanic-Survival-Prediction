@@ -3,6 +3,7 @@ This is a Kaggle competition to predict the Titanic survivals.
 
 The attributes are:
 -PassengerId: a unique identifier for each passenger
+
 -Survived: that's the target, 0 means the passenger did not survive, while 1 means he/she survived.
 -Pclass: passenger class.
 -Name, Sex, Age: self-explanatory
